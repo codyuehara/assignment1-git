@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Goodbye :)");
 		System.out.println("Project A");
 		System.out.println("stash the local changes");
+		System.out.println("other changes to Project B");
 	}
 
 }
